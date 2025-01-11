@@ -5,7 +5,7 @@ This project implements a stereo vision setup using two ESP32-CAM modules to est
 
 
 
-![Slide 1](WhatsApp_Image_2025-01-11_at_11.53.53_PM.jpeg)
+![project setup ](images/project.jpeg)
 
 
 ## Features
