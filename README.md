@@ -2,7 +2,11 @@
 
 This project implements a stereo vision setup using two ESP32-CAM modules to estimate the depth and distance of objects. By capturing images from two cameras, it calculates the disparity map and performs depth estimation.
 
----
+
+
+
+![Slide 1](WhatsApp_Image_2025-01-11_at_11.53.53_PM.jpeg)
+
 
 ## Features
 - **Stereo Vision Setup**: Two ESP32-CAM modules are used as stereo cameras.
